@@ -177,7 +177,7 @@ body {
 }
 
 body{
-  background-image: url("../src/assets/images/quotesbg.jpg");
+  background-image: url("./assets/images/quotesbg.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
